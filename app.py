@@ -1,5 +1,4 @@
 
-
 import streamlit as st
 
 st.set_page_config(page_title="Asistente Legal Interactivo", layout="centered")
@@ -11,7 +10,7 @@ Hola, soy **Ale**, tu abogado interactivo especializado en Derecho Laboral argen
 Podés preguntarme sobre despidos, indemnizaciones, trabajo en negro y más.  
 Estoy acá para ayudarte.  
 
-
+🔸 *Este asistente responde únicamente en español.*
 """)
 
 # URL del avatar de HeyGen (truncada por seguridad y longitud)
